@@ -4,7 +4,7 @@
 
 
 .banner{
-    background-image: url(.GI/images/55.jpg);
+    background-image: url(./images/55.jpg);
     background-size: cover;
     background-repeat: no repeat;
     padding: 230px 0;
